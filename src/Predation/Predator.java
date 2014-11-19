@@ -2,6 +2,7 @@ package Predation;
 import sim.engine.*;
 import sim.util.*;
 
+// dirty nga ba??
 public class Predator implements Steppable{
 	int x,y;
 	int nextx, nexty;
